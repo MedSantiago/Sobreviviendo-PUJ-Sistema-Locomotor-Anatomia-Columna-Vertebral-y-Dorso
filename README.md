@@ -127,7 +127,7 @@
     <h1>Columna Vertebral y Dorso</h1>
 
     <div class="main-image">
-      <img src="https://i.ytimg.com/vi/2Mi7jiBOUZQ/sddefault.jpg" />
+      <img src="https://fisiomaisha.com/sites/default/files/2023-04/columna-vertebral.jpg"" />
     </div>
 
     <div class="folder-grid">
