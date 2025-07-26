@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="utf-8">
@@ -94,13 +94,13 @@
     <div class="folder-grid">
 
       <!-- Carpeta 1: Guía de aprendizaje -->
-      <a class="folder" href="https://docs.google.com/uc?export=download&id=1eCWcQEwD9wmEXbp2zW0sQZw8vmoE9SsT" target="_blank">
+      <a class="folder" href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Columna-Vertebral-y-Dorso-Guia-de-Aprendizaje/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" alt="Guía">
         <span>Guía de aprendizaje</span>
       </a>
 
       <!-- Carpeta 2: Actividad práctica -->
-      <a class="folder" href="https://docs.google.com/document/d/1XEjemploEnlaceDeActividad" target="_blank">
+      <a class="folder" href="https://documentonofunciona.com" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" alt="Actividad">
         <span>Actividad práctica</span>
       </a>
