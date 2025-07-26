@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas/" />
+
 <meta property="og:url" content="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas/" />
 <meta property="og:site_name" content="Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas" />
 <meta property="og:type" content="website" />
