@@ -21,7 +21,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas/">Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas</a></h1>
+
       
 
       <html lang="es">
