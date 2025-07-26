@@ -1,25 +1,8 @@
 <html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v3.10.0" />
-
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas/favicon.ico" -->
-
-<!-- end custom head snippets -->
 
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
+ 
       
 
       
