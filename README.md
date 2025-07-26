@@ -6,20 +6,7 @@
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas" />
-<meta property="og:locale" content="en_US" />
 
-<meta property="og:url" content="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas/" />
-<meta property="og:site_name" content="Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas","name":"Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas","url":"https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas/assets/css/style.css?v=1b5d0ca134cec84619a3866af9cce41ab76bd230">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
 
